@@ -1,1 +1,3 @@
 SolidWorks 2010 files. Any SolidWorks version posterior to 2010 will open the files. 
+The file g2dExtruderCompleto.SLDASM is the top level. It is the assembly that contains all the extruder parts and three other sub-assemblies: 
+hotend_2.SLDASM, cooler_2.SLDASM and FixFrame.SLDASM
